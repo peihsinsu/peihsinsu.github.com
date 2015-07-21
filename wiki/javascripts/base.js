@@ -50,12 +50,12 @@ $(document).ready(function(){
   });
 
   $('#edit').click(function(){
-    var edit_url = 'https://github.com/' + config.user + '/' + config.project + '/edit/' + 'gh-pages/' + config.md_folder_name + '/' + (p?p:config.welcome_page);
+    var edit_url = 'https://github.com/' + config.user + '/' + config.project + '/edit/' + 'master/' + config.md_folder_name + '/' + (p?p:config.welcome_page);
     window.open(edit_url);
   });
 
   $('#new').click(function(){
-    var new_url = 'https://github.com/' + config.user + '/' + config.project + '/new/gh-pages';
+    var new_url = 'https://github.com/' + config.user + '/' + config.project + '/new/master';
     window.open(edit_url);
   });
 
