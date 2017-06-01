@@ -60,7 +60,7 @@ Jobs:
 * Team system / server administration: Over sea system and server management
 * Team sync / scheduler development: Over sea server data and db synchronize and scheduling job and report development.
  
-### Alchip (Mar. 2007 - May. 2008) / MIS Senior Engineer
+### Alchip / MIS Senior Engineer
 Alchip is a fabless semiconductor company founded in 2003 and headquartered in Taipei, Taiwan. Alchip specializes in the design and manufacture of digital CMOS ASICs.
 
 Jobs: 
@@ -68,7 +68,7 @@ Jobs:
 * Project management (HR leaving system project, HR travel flow)
 * MIS manager backup
  
-### NCIC (Mar. 2005 - Mar. 2007) / Provision Team Engineer
+### NCIC / Provision Team Engineer
 NCIC (also named Sparq) is ISP company to provide telecom and internet solution. Provision team is responsible for automatic provision user orders and billing process.
 
 Jobs: 
